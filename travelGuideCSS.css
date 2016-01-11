@@ -1,0 +1,35 @@
+body {
+	background: #50abfd;
+	font-family: Geneva, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: #ba3afc;
+}
+
+a {
+	text-decoration: none;
+	color: #ee2afd;
+	font-weight: bold;
+}
+a:hover {
+	color: #e032a0;
+}
+
+a:visited {
+	color: #5d8afc;
+}
+
+.header {
+	color: #ba3afc;
+}
+
+img {
+	position: relative;
+    width:  150px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

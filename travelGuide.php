@@ -4,6 +4,7 @@
 		<title>A Travel Guide</title>
 		<link href="aboyandhisferret.ico" rel="icon" type="image/x-icon"/>
 		<h1><span>A Travel Guide</span></h1>
+		<link rel="stylesheet" href="travelGuideCSS.css">
 	</head>
 
 	<body>
